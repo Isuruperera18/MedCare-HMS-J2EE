@@ -1,0 +1,265 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 20, 2021, 4:10:32 PM
+    Author     : Isuru Perera
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
+a{text-decoration: none; color: #505962;}
+a:hover{text-decoration: none; color: #1ebba3;}
+
+body{
+  overflow-x:hidden;
+  font-family: 'Lato', sans-serif;
+  color: #505962;
+}
+
+.offset:before{
+  display: block;
+  content: "";
+  height: 64px;
+  margin-top: -64px;
+}
+
+
+
+
+/*---Navigation---*/
+
+.navbar{
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 14.4px;
+  letter-spacing: 1.6px;
+}
+.navbar-nav li{
+  padding-right: 11.2px;
+}
+.navbar-dark .navbar-nav .nav-link{
+  color: #fff;
+  padding-top: 12.8px;
+}
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover{
+  color: #1ebba3;
+}
+
+
+
+/*---Landing page---*/
+
+.home-inner{
+  background-image: url(img/cover.jpg);
+  height: 100%;
+}
+.caption{
+  width: 100%;
+  max-width: 100%;
+  position: absolute;
+  top: 38%;
+  z-index: 1;
+  color: white;
+}
+.caption h1{
+  font-size: 60.8px;
+  font-weight: 700;
+  text-shadow: 1.6px 1.6px 12.8px black;
+  letter-spacing: 9px;
+}
+.btn-lg{
+  border-width: 2px;
+  border-radius: 5px;
+  padding: 5px 17px;
+}
+
+
+
+/*-----About Section-------*/
+
+.narrow{
+  width: 75%;
+  margin: 24px auto;
+}
+.btn-secondary{
+  border-width: medium;
+  border-radius: 0;
+  text-transform: uppercase;
+  font-size: 15px;
+  margin: 16px;
+  background-color: #1ebba3;
+  color: white;
+  border-color: #1ebba3;
+}
+.btn-secondary:hover{
+  background-color: #189582;
+  border-color: #189582;
+}
+
+
+
+/*-------Menu section-------*/
+
+.jumbotron{
+  margin-bottom: 0;
+  padding: 32px 0 56px;
+  border-radius: 0;
+}
+
+h3.heading{
+  font-size: 29px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 29px;
+}
+.heading-underline{
+  width: 48px;
+  height: 3.2px;
+  background-color: #1ebba3;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
+
+.menu{
+  overflow: hidden;
+}
+
+.menu img{
+  max-width: 100%;
+  transition: transform .5s ease;
+}
+
+.row.no-padding [class*=col-]{
+  padding: 0;
+}
+
+.menu img:hover{
+  transform: scale(1.1);
+}
+
+
+/*-----shops section-----*/
+
+
+.fixed{
+  background-image: url(img/cover2.jpg);
+  z-index: -1;
+}
+.dark{
+  background-color: rgba(0, 0, 0, 0.75);
+  color: white;
+  padding: 112px 32px;
+}
+.fixed-background h3{
+  margin-bottom: 32px;
+}
+.fixed-background p{
+  margin-top: 24px;
+}
+
+
+/*-----shops 2 section-----*/
+
+
+.fixedd{
+  background-image: url(img/cover3.jpg);
+  z-index: -1;
+}
+.dark{
+  background-color: rgba(0, 0, 0, 0.75);
+  color: white;
+  padding: 112px 32px;
+}
+.fixedd-background h3{
+  margin-bottom: 32px;
+}
+.fixedd-background p{
+  margin-top: 24px;
+}
+
+/*-----shops 3 section-----*/
+
+
+.fixeddd{
+  background-image: url(img/cover4.jpg);
+  z-index: -1;
+}
+.dark{
+  background-color: rgba(0, 0, 0, 0.75);
+  color: white;
+  padding: 112px 32px;
+}
+.fixeddd-background h3{
+  margin-bottom: 32px;
+}
+.fixeddd-background p{
+  margin-top: 24px;
+}
+
+
+
+
+/*---------activities section---------*/
+
+
+.food img{
+  width: 200px;
+  border-radius: 15%;
+}
+
+.food-hr{
+  border-top: 2px solid #1ebba3;
+}
+
+.food h5{
+  font-weight: bold;
+}
+
+
+
+/*------------footer------------*/
+
+footer{
+  background-color: black;
+  color: white;
+  padding: 32px 3.2px;
+  margin-top: 16px;
+}
+
+footer img{
+  margin: 24px 0;
+}
+
+footer a{
+  color: white;
+  margin: 5px;
+}
+
+hr.socket{
+  width: 100%;
+  border-top: 1px solid #666b71;
+  margin-top: 48px;
+}
+
+
+
+/*----------media query----------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
