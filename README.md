@@ -7,7 +7,7 @@ Home Pages
 ![Screenshot (138)](https://user-images.githubusercontent.com/67300714/117911688-d7ae6c80-b2fb-11eb-8bc6-a60342793e79.png)
 ![Screenshot (139)](https://user-images.githubusercontent.com/67300714/117911692-d8df9980-b2fb-11eb-99d6-73e8e34dcecd.png)
 
-Login Forms
+SignIn and SignUp Forms
 ![Screenshot (141)](https://user-images.githubusercontent.com/67300714/118209807-f55c0d00-b486-11eb-834b-6e1e2fca65bd.png)
 ![Screenshot (142)](https://user-images.githubusercontent.com/67300714/118209812-f856fd80-b486-11eb-82dc-26ff348f6611.png)
 ![Screenshot (143)](https://user-images.githubusercontent.com/67300714/118209815-fa20c100-b486-11eb-94e9-75e45eea7319.png)
