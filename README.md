@@ -22,4 +22,24 @@ Patient Home Pages
 Doctor Home Page
 ![Screenshot (159)](https://user-images.githubusercontent.com/67300714/118209879-1de40700-b487-11eb-84ca-a4ed9bd8bfd3.png)
 
+Patient Registration Form
+![Screenshot (140)](https://user-images.githubusercontent.com/67300714/118344641-e344a200-b54c-11eb-9f1a-da3c1411f60b.png)
+
+Doctor Registration Form
+![Screenshot (151)](https://user-images.githubusercontent.com/67300714/118344643-e6d82900-b54c-11eb-9108-72865667cdd4.png)
+![Screenshot (152)](https://user-images.githubusercontent.com/67300714/118344644-e9d31980-b54c-11eb-98d9-2d1c997c8629.png)
+
+Form Validations
+![Screenshot (153)](https://user-images.githubusercontent.com/67300714/118344646-eb9cdd00-b54c-11eb-83da-41e791b61d35.png)
+
+Appoitment Form
+![Screenshot (156)](https://user-images.githubusercontent.com/67300714/118344648-ecce0a00-b54c-11eb-86ba-a83211879b11.png)
+
+Payment Form
+![Screenshot (157)](https://user-images.githubusercontent.com/67300714/118344652-ef306400-b54c-11eb-92af-3c7afe3e34d0.png)
+
+Patient Details List
+![Screenshot (147)](https://user-images.githubusercontent.com/67300714/118344659-ffe0da00-b54c-11eb-9d3b-d484444cc648.png)
+
+
 
