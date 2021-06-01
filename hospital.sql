@@ -5,7 +5,7 @@ use hospital;
 create table adminreg 
 (
   username varchar(50)NOT NULL,
-  password varchar(35)NOT NULL
+  password varchar(50)NOT NULL
 );
 
 select * from adminreg;
@@ -152,7 +152,7 @@ create table doctorent
   PRIMARY KEY (mobile)
 ) ;
 
-insert into doctorent values('','','Rs.','') ;
+insert into doctorent values('Thisara Perera','Sethma Hospital','Rs.2500','+94777678678') ;
 insert into doctorent values('','','Rs.','') ;
 insert into doctorent values('','','Rs.','') ;
 insert into doctorent values('','','Rs.','') ;
@@ -172,7 +172,7 @@ create table doctorden
   PRIMARY KEY (mobile)
 ) ;
 
-insert into doctorden values('','','Rs.','') ;
+insert into doctorden values('Malan Silva','Asiri Hospital','Rs.2000','+94777123123') ;
 insert into doctorden values('','','Rs.','') ;
 insert into doctorden values('','','Rs.','') ;
 insert into doctorden values('','','Rs.','') ;
